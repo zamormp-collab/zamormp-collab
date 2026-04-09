@@ -84,9 +84,9 @@ Mon objectif est de devenir un **ingénieur logiciel professionnel**, capable de
 
 ## 📫 Me contacter
 
-- Email : *(ajoute ton email ici)*
+- Email : *zamormp@gmail.com*
 - LinkedIn : *(ajoute ton profil ici)*
-- GitHub : *(lien de ton profil)*
+- GitHub : https://github.com/zamormp-collab
 
 ---
 
