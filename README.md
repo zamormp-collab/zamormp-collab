@@ -1,8 +1,5 @@
 ## Hello 👋 my name is Marc Philippe ZAMOR
 
-<!--
-**zamormp-collab/zamormp-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👨‍💻 Marc Philippe ZAMOR
 
 ## 🎯 Software Engineer in Training | Full-Stack & System Design
@@ -97,6 +94,9 @@ Mon objectif est de devenir un **ingénieur logiciel professionnel**, capable de
 
 J’aime transformer des idées en solutions concrètes à travers le code et concevoir des systèmes bien structurés.
 Here are some ideas to get you started:
+
+<!--
+**zamormp-collab/zamormp-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
