@@ -38,9 +38,9 @@
 
 ## 👨‍💻 About Me
 
-I am a **Full-Stack Software Developer** with training in software engineering and modern application development.
+I am a **Computer Science Engineer** specialized in **Full-Stack Software Engineering** with strong training in **Software and Modern Application Development**.
 
-I successfully completed the **Programme de Formation pour le Renforcement du Secteur Technologique en Haïti (FRST)** at the **Faculty of Sciences – State University of Haiti (FDS-UEH)**.
+After obtaining my bachelor's degree (Bac +5) as an Engineer in Computer Science at the **Université INUKA** in partnership with the **Université du Québec à Montréal (UQÀM)**, i successfully completed the **Programme de Formation pour le Renforcement du Secteur Technologique en Haïti (FRST)** in **Web and Mobile Application Design and Development** at the **Faculté des Sciences de l'Université d'Etat d'Haïti (FDS-UEH)**.
 
 My technical background covers:
 
