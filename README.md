@@ -1,116 +1,472 @@
+<!-- ============================================ -->
+<!--          PERSONAL BRAND BANNER               -->
+<!-- ============================================ -->
+
+<p align="center">
+  <img
+    src="https://drive.google.com/file/d/1CnYnEWioiyz0EoiDJlkW3XyRdHMb-CNm/view"
+    alt="Marc Philippe ZAMOR - Full-Stack Software Developer"
+    width="100%"
+  />
+</p>
+
 <h1 align="center">
-  Hello 👋, my name is Marc Philippe ZAMOR
+  Hi 👋, I'm Marc Philippe ZAMOR
 </h1>
 
-<h2 align="center">
-  🚀 Software Engineer in Training | Full-Stack Development | System Design
-</h2>
+<h3 align="center">
+  Full-Stack Software Developer | Software Engineering | AI-Focused Developer
+</h3>
 
-I am a Software Engineering student at the Faculty of Sciences, State University of Haiti, with a strong foundation in **full-stack development, software design, and modern architectures**.
+<p align="center">
+  Building digital solutions with modern technologies, solid software engineering principles, and a focus on real-world impact.
+</p>
 
-I focus on building **scalable, well-structured, and maintainable applications**, combining solid programming fundamentals with real-world engineering practices.
+<p align="center">
 
----
+  <a href="https://github.com/zamormp-collab">
+    <img src="https://komarev.com/ghpvc/?username=zamormp-collab&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
 
-## 🧠 Core Skills
+  <a href="https://github.com/zamormp-collab">
+    <img src="https://img.shields.io/github/followers/zamormp-collab?label=Followers&style=flat" />
+  </a>
 
-### 💻 Programming Languages
-
-* Java
-* C# (.NET fundamentals)
-* JavaScript (ES6+)
-* PHP
-
-### 🌐 Web Development
-
-* Backend development with Node.js (REST APIs)
-* PHP & MySQL (dynamic web applications)
-* MVC architecture
-
-### 📱 Mobile Development
-
-* Android (Java/Kotlin basics)
-* iOS (fundamentals)
-
-### 🗄️ Databases & Data Modeling
-
-* MySQL
-* SQL (queries, joins, optimization basics)
-* Data modeling with MERISE
-
-### 🧱 Software Engineering
-
-* Object-Oriented Programming (OOP)
-* UML (Class, Use Case, Sequence diagrams)
-* Software specifications & system design
-* Architecture patterns (MVC, microservices – fundamentals)
-
-### ⚙️ DevOps & Tools
-
-* Git & GitHub (version control)
-* Docker (basics)
-* CI/CD concepts
-
-### 🔄 Methodologies
-
-* Agile (Scrum)
-* Team collaboration & project organization
+</p>
 
 ---
 
-## 🧩 What I Can Do
+## 👨‍💻 About Me
 
-* Design software systems from requirements to implementation
-* Build and structure backend applications (REST APIs)
-* Develop full-stack web applications connected to databases
-* Apply clean and maintainable OOP principles
-* Model databases and system architecture before development
-* Understand and work with technical documentation in English
+I am a **Full-Stack Software Developer** with training in software engineering and modern application development.
 
----
+I successfully completed the **Programme de Formation pour le Renforcement du Secteur Technologique en Haïti (FRST)** at the **Faculty of Sciences – State University of Haiti (FDS-UEH)**.
 
-## 🎯 Career Focus
+My technical background covers:
 
-I am actively building expertise in:
+- Full-Stack Web Development
+- Backend Development
+- RESTful APIs
+- Software Architecture
+- Object-Oriented Programming
+- Database Design
+- Software Testing
+- DevOps Fundamentals
+- Agile Scrum
+- Artificial Intelligence Tools and AI-Assisted Development
 
-* Backend Engineering (Node.js / Java / C#)
-* Scalable system design
-* Software architecture
+I am passionate about designing and building **useful, maintainable, scalable, and user-focused digital solutions**.
 
-My goal is to become a **professional Software Engineer** capable of delivering high-quality solutions in real-world environments.
-
----
-
-## 📈 Currently Learning
-
-* Microservices architecture
-* Advanced DevOps practices
-* Clean Code & SOLID principles
-* Modern backend frameworks
+Currently, I am strengthening my expertise through real-world projects while expanding my knowledge in **Artificial Intelligence and AI-powered software development**.
 
 ---
 
-## 🌍 Open to Opportunities
+# 🚀 Tech Stack
+
+## 💻 Programming Languages
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</p>
+
+---
+
+## 🌐 Full-Stack Development
+
+### Backend
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge"/>
+
+</p>
+
+### Frontend
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+</p>
+
+### Databases
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MERISE-1F6FEB?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 📱 Mobile Development
+
+- Android Development
+- Kotlin
+- Android Studio
+- iOS Development Fundamentals
+- Swift Fundamentals
+
+---
+
+## 🧠 Software Engineering
+
+✔ Object-Oriented Programming
+✔ Software Specifications
+✔ Software Design
+✔ UML
+✔ MVC Architecture
+✔ Microservices
+✔ System Design
+✔ Database Design
+✔ Clean Code Principles
+✔ SOLID Principles Fundamentals
+✔ Agile Scrum
+
+---
+
+## 🧪 Software Quality
+
+- Software Testing Fundamentals
+- Test Case Design
+- Functional Testing
+- Software Quality Assurance Fundamentals
+- Debugging
+- Code Review Practices
+
+---
+
+## ⚙️ DevOps & Tools
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🤖 Artificial Intelligence
+
+Currently exploring and integrating AI into software development workflows.
+
+### AI Tools & Technologies
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Claude-AI-CC785C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cursor-AI-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI_Agents-4B0082?style=for-the-badge"/>
+
+</p>
+
+🎯 **My goal:** Build intelligent digital solutions that combine software engineering and Artificial Intelligence.
+
+---
+
+# 🧩 Featured Projects
+
+## ☀️ SmartSol
+
+A digital Fintech solution developed as a collaborative project.
+
+### Technologies & Environment
+
+- Spring Boot
+- REST API
+- React
+- Kotlin
+- PostgreSQL
+- Redis
+- Docker
+- Git & GitHub
+- Scrum
+- Role-Based Access Control
+
+### Key Concepts
+
+- Software Architecture
+- Database Management
+- Authentication
+- Authorization
+- RBAC
+- MVVM
+- Collaborative Development
+
+### My Contribution
+
+- Backend development (30%)
+- Web development (90%)
+- Mobile development (10%)
+- API design
+- Database integration
+- Software architecture
+- Team collaboration
+- Agile project management
+
+---
+
+# 🎯 What I Can Do
+
+✔ Build RESTful APIs
+
+✔ Develop backend applications with Java and Spring Boot
+
+✔ Build modern web applications
+
+✔ Work with React and JavaScript
+
+✔ Design and model databases
+
+✔ Apply Object-Oriented Programming principles
+
+✔ Work with MVC architecture
+
+✔ Understand Microservices architecture
+
+✔ Use Git and GitHub in collaborative projects
+
+✔ Work with Docker and modern development environments
+
+✔ Participate in Agile Scrum teams
+
+✔ Perform software testing and debugging
+
+✔ Use AI tools to improve development workflows
+
+✔ Learn new technologies quickly
+
+---
+
+# 🎓 Education & Training
+
+## 🏛️ Université INUKA in partnership with the Université du Québec à Montréal (UQÀM)
+
+### Computer Science
+
+Successfully completed training in:
+
+- Object-oriented analysis
+- Object-oriented design
+- Software Engineering
+- UML and the Design Patterns
+- Programming in C-Sharp
+- Oracle
+- Network
+- LISt Processor (LISP)
+- Programming in Java
+- Web Development Tool (HTML, PHP, MySql)
+- Visual Basic
+- Information System
+- Database Management System
+- Computer Troubleshooting
+- Operating System
+- Programming in C++
+- Assembler
+- Data structure
+- Advanced C programming
+- Algorithmic
+- Computer Architecture
+- Fundamental Programming
+- Scientific English
+
+## 🏛️ Faculté des Sciences de l'Université d'État d'Haïti (FDS-UEH)
+
+### Programme de Formation pour le Renforcement du Secteur Technologique en Haïti (FRST)
+### Web and Mobile Application Design and Development
+
+Successfully completed training in:
+
+- MVC, Spring Boot & Microservices
+- JavaScript, Node.js & REST Web Services
+- React Fundamentals
+- PHP & MySQL
+- Android Development
+- Kotlin
+- iOS Development Fundamentals
+- Swift
+- Agile Project Management with Scrum
+- Algorithms & Programming
+- Advanced Java Programming
+- DevOps Fundamentals
+- Object-Oriented Programming
+- MERISE Data Modeling
+- Technical English
+- C# Programming
+- Software Testing
+- Software Specifications & Design
+- AI Agents & AI Development Tools
+
+---
+
+# 🌱 Currently Growing
+
+I am currently focused on strengthening my expertise in:
+
+- Spring Boot
+- Advanced Java
+- React
+- Full-Stack Architecture
+- Microservices
+- DevOps
+- Cloud Technologies
+- Software Testing
+- Generative AI
+- AI-Powered Applications
+- AI-Assisted Development
+- Prompt Engineering
+- Intelligent Automation
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+
+---
+
+# 🔥 GitHub Activity
+
+<p align="center">
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=zamormp-collab&theme=tokyonight&hide_border=true"
+/>
+
+</p>
+
+---
+
+# 🎯 Career Focus
+
+I am interested in opportunities related to:
+
+- 💻 Full-Stack Development
+- ☕ Java / Spring Boot Development
+- 🌐 Backend Development
+- ⚛️ React Development
+- 🏗️ Software Engineering
+- 🤖 AI-Powered Applications
+- 🧠 AI Agents
+- ⚙️ Software Architecture
+- 🌍 Remote Software Development Opportunities
+
+---
+
+# 🌎 Open to Opportunities
 
 I am open to:
 
-* Internships
-* Junior Software Engineer roles
-* Remote opportunities
-* Collaborative and open-source projects
+- Junior Software Developer Roles
+- Junior Full-Stack Developer Roles
+- Java / Spring Boot Opportunities
+- Backend Development Roles
+- Remote Opportunities
+- Freelance Projects
+- International Collaboration
+- Open Source Projects
+- AI Development Opportunities
 
 ---
 
-## 📫 Contact
+# 📫 Let's Connect
 
-* Email: *zamormp@gmail.com*
-* LinkedIn: *https://www.linkedin.com/in/marc-philippe-zamor*
-* *[My GitHub here](https://github.com/zamormp-collab/zamormp-collab)*
+<p align="left">
+
+<a href="mailto:zamormp@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/marc-philippe-zamor">
+  <img src="https://img.shields.io/badge/LinkedIn-Marc_Philippe_ZAMOR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/zamormp-collab">
+  <img src="https://img.shields.io/badge/GitHub-zamormp--collab-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## ⚡ Mindset
+# ⚡ Professional Mindset
 
-I approach software development as both an engineering discipline and a problem-solving craft — focusing on **clarity, structure, and scalability** in every project.
+> "Technology creates the most value when it solves real problems."
+
+I believe that great software is built through:
+
+- Clear problem understanding
+- Good software architecture
+- Clean and maintainable code
+- Collaboration
+- Continuous learning
+- Testing and quality
+- User-focused thinking
+
+My mission is to continue growing as a software professional while building **digital and AI-powered solutions that create meaningful impact**.
 
 ---
+
+<p align="center">
+  🚀 Always learning. Always building. Always improving.
+</p>
+
+<p align="center">
+  <b>Marc Philippe ZAMOR</b><br>
+  Full-Stack Software Developer | Software Engineering | AI-Focused Developer
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
