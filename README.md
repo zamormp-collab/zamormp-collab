@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://drive.google.com/file/d/1CnYnEWioiyz0EoiDJlkW3XyRdHMb-CNm/view"
+    src="https://raw.githubusercontent.com/zamormp-collab/zamormp-collab/main/Zamor_Banner.png"
     alt="Marc Philippe ZAMOR - Full-Stack Software Developer"
     width="100%"
   />
@@ -417,6 +417,10 @@ I am open to:
 
 <a href="https://github.com/zamormp-collab">
   <img src="https://img.shields.io/badge/GitHub-zamormp--collab-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/50937619743">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat_with_me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </p>
