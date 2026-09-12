@@ -242,12 +242,39 @@ A digital Fintech solution developed as a collaborative project.
 - Team collaboration
 - Agile project management
 
+### User Roles
+
+```text
+PUBLIC
+   ↓
+MEMBRE
+   ↓
+ORGANISATEUR
+   ↓
+ADMIN
+```
+
 ### 🎥 Project Demonstration
 <p align="center"> <a href="YOUR_DEMO_VIDEO_LINK"> <img src="./assets/smartsol-demo-thumbnail.png" alt="SmartSol Project Demonstration" width="85%" /> </a> </p> <p align="center"> 👆 Click the image to watch the SmartSol demonstration </p>
 
 ### 🖼️ Screenshots
 <p align="center">
-<img src="./assets/dashboard.png" alt="SmartSol Dashboard"80%" />
+  <img 
+    src="./assets/mobile-login-back.png" 
+    alt="SmartSol connexion sur l'application mobile" 
+    width="300%" 
+  />      <img 
+    src="./assets/mobile-orga-connected-home.png" 
+    alt="SmartSol Accueil Organisateur" 
+    width="30%" 
+  />      <img 
+    src="./assets/mobile-orga-wallet-rich.png" 
+    alt="SmartSol Wallet" 
+    width="30%" 
+  />
+</p> 
+<p align="center">
+<img src="./assets/dashboard.png" alt="SmartSol Dashboard" width="80%" />
 </p> <p align="center">
 <img src="./assets/groupes_ou_sols.png" alt="SmartSol Groupes / Sols" width="80%" />
 </p> <p align="center">
@@ -255,12 +282,18 @@ A digital Fintech solution developed as a collaborative project.
 </p> <p align="center">
 <img src="./assets/stats.png" alt="SmartSol Statistiques " width="80%" />
 </p> <p align="center">
-<img src="./assets/impact.png" alt="SmartSol impact" width="80%" />
+<img src="./assets/impact .png" alt="SmartSol Impact sur PC en français" width="80%" />
 </p> <p align="center">
-<img src="./assets/impact_ipad_creole.png" alt="SmartSol Impact sur iPad en créole" width="80%" />
-</p> <p align="center">
-<img src="./assets/impact_ipad_anglais_dark.png" alt="SmartSol Impact sur iPad en mode sombre en anglais " width="80%" />
-</p>
+  <img 
+    src="./assets/impact_ipad_creole.png" 
+    alt="SmartSol Impact sur iPad en créole" 
+    width="40%" 
+  />      <img 
+    src="./assets/impact_ipad_anglais_dark.png" 
+    alt="SmartSol Impact sur iPad en anglais - mode sombre" 
+    width="40%" 
+  />
+</p> 
 
 ---
 
