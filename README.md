@@ -247,9 +247,19 @@ A digital Fintech solution developed as a collaborative project.
 
 ### 🖼️ Screenshots
 <p align="center">
-<img src="./assets/dashboard.png" alt="SmartSol Dash "80%" />
+<img src="./assets/dashboard.png" alt="SmartSol Dashboard"80%" />
 </p> <p align="center">
-<img src="./assets/smartsol-dashboard.png" alt="SmartSol Dashboard" width="80%" />
+<img src="./assets/groupes_ou_sols.png" alt="SmartSol Groupes / Sols" width="80%" />
+</p> <p align="center">
+<img src="./assets/wallets.png" alt="SmartSol Wallets / Sols" width="80%" />
+</p> <p align="center">
+<img src="./assets/stats.png" alt="SmartSol Statistiques " width="80%" />
+</p> <p align="center">
+<img src="./assets/impact.png" alt="SmartSol impact" width="80%" />
+</p> <p align="center">
+<img src="./assets/impact_ipad_creole.png" alt="SmartSol Impact sur iPad en créole" width="80%" />
+</p> <p align="center">
+<img src="./assets/impact_ipad_anglais_dark.png" alt="SmartSol Impact sur iPad en mode sombre en anglais " width="80%" />
 </p>
 
 ---
