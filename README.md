@@ -242,6 +242,16 @@ A digital Fintech solution developed as a collaborative project.
 - Team collaboration
 - Agile project management
 
+### 🎥 Project Demonstration
+<p align="center"> <a href="YOUR_DEMO_VIDEO_LINK"> <img src="./assets/smartsol-demo-thumbnail.png" alt="SmartSol Project Demonstration" width="85%" /> </a> </p> <p align="center"> 👆 Click the image to watch the SmartSol demonstration </p>
+
+### 🖼️ Screenshots
+<p align="center">
+<img src="./assets/dashboard.png" alt="SmartSol Dash "80%" />
+</p> <p align="center">
+<img src="./assets/smartsol-dashboard.png" alt="SmartSol Dashboard" width="80%" />
+</p>
+
 ---
 
 # 🎯 What I Can Do
@@ -419,8 +429,8 @@ I am open to:
   <img src="https://img.shields.io/badge/GitHub-zamormp--collab-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://wa.me/50937619743">
-  <img src="https://img.shields.io/badge/WhatsApp-Chat_with_me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<a href="https://wa.me/50937619743?text=Hello%20Zamor%2C%20I%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20connect.">
+  <img src="https://img.shields.io/badge/WhatsApp-Let's_Connect-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </p>
