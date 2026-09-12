@@ -262,7 +262,7 @@ ADMIN
   <img 
     src="./assets/mobile-login-back.png" 
     alt="SmartSol connexion sur l'application mobile" 
-    width="300%" 
+    width="30%" 
   />      <img 
     src="./assets/mobile-orga-connected-home.png" 
     alt="SmartSol Accueil Organisateur" 
