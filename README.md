@@ -255,7 +255,7 @@ ADMIN
 ```
 
 ### 🎥 Project Demonstration
-<p align="center"> <a href="https://youtu.be/xeMALrxA7XY"> <img src="./assets/smartsol_demo_thumbnail.png" alt="SmartSol Project Demonstration" width="85%" /> </a> </p> <p align="center"> 👆 Click the image to watch the SmartSol demonstration </p>
+<p align="center"> <a href="https://youtu.be/xeMALrxA7XY"> <img src="./assets/Smartsol_Demo_Thumbnail.jpg" alt="SmartSol Project Demonstration" width="85%" /> </a> </p> <p align="center"> 👆 Click the image to watch the SmartSol demonstration </p>
 
 ### 🖼️ Screenshots
 <p align="center">
