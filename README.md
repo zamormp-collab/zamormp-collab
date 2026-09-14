@@ -282,26 +282,14 @@ ADMIN
   />
 </p> 
 <p align="center">
-<img src="./assets/dashboard.png" alt="SmartSol Dashboard" width="80%" />
+<img src="./assets/dashboard.png" alt="SmartSol Dashboard" width="90%" />
 </p> <p align="center">
-<img src="./assets/groupes_ou_sols.png" alt="SmartSol Groupes / Sols" width="80%" />
+<img src="./assets/wallets.png" alt="SmartSol Wallets / Sols" width="90%" />
 </p> <p align="center">
-<img src="./assets/wallets.png" alt="SmartSol Wallets / Sols" width="80%" />
+<img src="./assets/stats.png" alt="SmartSol Statistiques " width="90%" />
 </p> <p align="center">
-<img src="./assets/stats.png" alt="SmartSol Statistiques " width="80%" />
-</p> <p align="center">
-<img src="./assets/impact .png" alt="SmartSol Impact sur PC en français" width="80%" />
-</p> <p align="center">
-  <img 
-    src="./assets/impact_ipad_creole.png" 
-    alt="SmartSol Impact sur iPad en créole" 
-    width="40%" 
-  />      <img 
-    src="./assets/impact_ipad_anglais_dark.png" 
-    alt="SmartSol Impact sur iPad en anglais - mode sombre" 
-    width="40%" 
-  />
-</p> 
+<img src="./assets/impact .png" alt="SmartSol Impact sur PC en français" width="90%" />
+</p>
 
 ---
 
